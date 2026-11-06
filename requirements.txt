@@ -15,3 +15,4 @@ joblib==1.4.2
 ucimlrepo==0.0.7
 nbformat==5.10.4
 SQLAlchemy==2.0.36
+ipykernel==6.29.5
